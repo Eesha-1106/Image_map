@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-# Date:
+# Date:7-10-2024
 # AIM
 To develop a website to display details about the places around my house.
 
@@ -299,6 +299,7 @@ body{
  
 ```
 # OUTPUT
+![alt text](Capture.PNG)
 ![alt text](<Capture 1.PNG>)
 ![alt text](<Capture 2.PNG>)
 ![alt text](<Capture 3.PNG>)
